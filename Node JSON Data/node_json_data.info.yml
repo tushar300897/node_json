@@ -1,0 +1,5 @@
+name: Node JSON Data
+type: module
+core: 8.x
+description: This type of form is used to create forms for configuration pages on your Drupal website. 
+configure:  node_json_data.admin_settings
